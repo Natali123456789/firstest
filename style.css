@@ -1,0 +1,53 @@
+body {
+    width: 1920px;
+    height: 5155px;
+    margin: 30px auto;
+    background: rgb(22, 40, 49, 1);
+
+}
+
+header {
+    margin: bottom 50px;
+    padding-left: 312px;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-image: url("images/Vector.png");
+}
+
+.w {
+    position: absolute;
+    top: 13.51px;
+    right: 14px;
+}
+
+nav {
+    margin-right: 214px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    /*gap: 50px;*/
+}
+
+li {
+    margin-right: 50px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+button {
+    background-color: rgba(red, rgb(0, 77, 128), blue);
+    padding: 9px 15px;
+}
+
+
